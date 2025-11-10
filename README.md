@@ -6,31 +6,57 @@ El proyecto está dividido en tres secciones, una de extracción, una de entrena
 Mapa del github:
 Módulo-2-Implementación-de-un-modelo-de-deep-learning/
 │
+
 ├── Entrenamiento del modelo/
+
 │   ├── (Entrenamiento)_Módulo_2_Implementación_de_un_modelo_de_deep_learning.ipynb
+
 │   ├── Link al colab de entrenamiento
+
 │   └── Modelos creados/
+
 │       ├── model_clasico.keras
+
 │       ├── model_combinado_embed.keras
+
 │       └── model_videojuegos_embed.keras
+
 │
+
 ├── Extracción de datos/
+
 │   ├── (Extracción)_Módulo_2_Implementación_de_un_modelo_de_deep_learning.ipynb
+
 │   ├── Link al colab de extracción
+
 │   └── Archivos generados/
+
 │       ├── clasico_notas.npy
+
 │       ├── clasico_notas_unicas.json
+
 │       ├── clasico_secuencias_datos.npz
+
 │       ├── combinado_notas.npy
+
 │       ├── combinado_notas_unicas.json
+
 │       ├── combinado_secuencias_datos.npz
+
 │       ├── videojuegos_notas.npy
+
 │       ├── videojuegos_notas_unicas.json
+
 │       └── videojuegos_secuencias_datos.npz
+
 │
+
 └── Realizar Predicciones/
+
     ├── (Predicción)_Módulo_2_Implementación_de_un_modelo_de_deep_learning.ipynb
+    
     ├── Link al colab de predicciones
+    
     └── Música generada/
 
 Cómo correr cada programa: (descargar el .pynb o acceder al link de Google Colab)
