@@ -1,6 +1,8 @@
 # Módulo-2-Implementación-de-un-modelo-de-deep-learning.
  (Portafolio Implementación)
 
+ Módulo 2 Implementación de un modelo de deep learning.docx documenta, el alcance, limitaciones, problemas, mejoras y conclusiones del proyecto.
+
 El proyecto está dividido en tres secciones, una de extracción, una de entrenamiento y otra de predicciones. Cada una de estas carpetas incluye los archivos que se generan. Los archivos generados en la extracción se emplean tanto en la sección de entrenamiento como en la de predicciones, los modelos generados en el entrenamiento también deben emplearse para realizar las predicciones.
 
 Mapa del github:
