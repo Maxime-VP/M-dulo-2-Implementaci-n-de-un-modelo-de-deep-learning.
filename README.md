@@ -55,11 +55,15 @@ Mapa del github:
     
     └── Realizar Predicciones/
     
-        ├── (Predicción)_Módulo_2_Implementación_de_un_modelo_de_deep_learning.ipynb
+    │     ├── (Predicción)_Módulo_2_Implementación_de_un_modelo_de_deep_learning.ipynb
     
-        ├── Link al colab de predicciones
+    │     ├── Link al colab de predicciones
     
-        └── Música generada/
+    │     └── Música generada/
+
+    │ 
+    
+    ├── Castlevania
 
 
 
@@ -72,3 +76,10 @@ Cómo correr cada programa: (descargar el .pynb o acceder al link de Google Cola
 - (Entrenamiento): ejecutar las primeras tres celdas para generar los directorios, cargar en /content/melody_project/data los archivos generados en (Extracción), también pueden descargar dichos archivos desde la carpeta "Archivos generados" dentro de la carpeta "Extracción de datos" del repositorio.
   
 - (Predicción): ejecutar las primeras dos celdas para generar los directorios, cargar en /content/melody_project/data los archivos generados en (Extracción), en /content/melody_project/models cargar los tres modelos generados en (Entrenamiento) o descargados de la carpeta de "Modelos creados" dentro de la carpeta "Entrenamiento del modelo" del repositorio.
+
+
+Como ejecutar Castlevania:
+
+En la carpeta de Castlevania se encuentra nuevamente los ipynb y links a los colabs al igual que los archivos generados, esta vez únicamente para generar música de Castlevania. El funcionamiento es el mismo, pero elegí hacerlo en un archivo distinto para poder usar el comando de ejecutar todas las celdas sin reentrenar los demás modelos.
+
+En la extracción de datos se usan diferentes estrategias para generar el data, sin embargo solo empleé una de estas para el entrenamiento debido a que este es bastante costoso. Los resultados del entrenamiento y de las mejores predicciones se encuentran en carpetas dentro de la carpeta Castlevania.
